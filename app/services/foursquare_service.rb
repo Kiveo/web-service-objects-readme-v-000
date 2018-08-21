@@ -1,0 +1,6 @@
+class FoursquareService
+
+
+
+
+end
